@@ -1,0 +1,3 @@
+first line
+second line
+gonna do first commit in local git
